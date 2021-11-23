@@ -1,5 +1,6 @@
 [![PyPI version](https://badge.fury.io/py/scipy-quadopt.svg)](https://badge.fury.io/py/scipy-quadopt)
 [![DOI](https://zenodo.org/badge/355471428.svg)](https://zenodo.org/badge/latestdoi/355471428)
+[![Join the chat at https://gitter.im/satzbeleg/community](https://badges.gitter.im/satzbeleg/community.svg)](https://gitter.im/satzbeleg/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/satzbeleg/scipy-quadopt.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/satzbeleg/scipy-quadopt/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/satzbeleg/scipy-quadopt.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/satzbeleg/scipy-quadopt/context:python)
 [![deepcode](https://www.deepcode.ai/api/gh/badge?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwbGF0Zm9ybTEiOiJnaCIsIm93bmVyMSI6InNhdHpiZWxlZyIsInJlcG8xIjoic2NpcHktcXVhZG9wdCIsImluY2x1ZGVMaW50IjpmYWxzZSwiYXV0aG9ySWQiOjI5NDUyLCJpYXQiOjE2MTk2Mjk4Nzd9.-Vgd3-HgM72l4K7DXLCrnNnxX11tzO7Qp23c7zMl3Zo)](https://www.deepcode.ai/app/gh/satzbeleg/scipy-quadopt/_/dashboard?utm_content=gh%2Fsatzbeleg%2Fscipy-quadopt)
